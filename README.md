@@ -1,4 +1,9 @@
-## Hi there 👋
+## Current Tech Stack
+- Languages: JS
+- Frameworks: React
+- Libraries: jQuery, GSAP, Tailwind
+- Version Control: Git
+
 
 <!--
 **vivekksahuu/vivekksahuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
