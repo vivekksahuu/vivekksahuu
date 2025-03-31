@@ -1,4 +1,4 @@
-## Current Tech Stack
+## Tech Stack
 - Languages: JS
 - Frameworks: React
 - Libraries: jQuery, GSAP, Tailwind
