@@ -1,7 +1,7 @@
 ## Tech Stack
 - Languages: Javascript
-- Frameworks: React JS
-- Libraries: Zustand, jQuery, GSAP, Tailwind CSS
+- Frameworks: Tailwind CSS
+- Libraries: React JS, Zustand, jQuery, GSAP, 
 - Version Control: Git, Github
 
 
